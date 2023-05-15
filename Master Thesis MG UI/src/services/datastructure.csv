@@ -1,0 +1,21 @@
+Name                         ,Data   ,Size              ,Unit
+Start Byte                   ,0x0C   ,1 Byte            ,-
+Frame Counter                ,0x0001 ,2 Bytes           ,-
+Battery Level                ,0x0222 ,2 Bytes           ,Percentage x 10
+Power Bank Level             ,0x0AE1 ,2 Bytes (12 Bits) ,mV
+Force Data Pair 1 – Sample 1 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 2 – Sample 1 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 1 – Sample 2 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 2 – Sample 2 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 1 – Sample 3 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 2 – Sample 3 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 1 – Sample 4 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 2 – Sample 4 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 1 – Sample 5 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 2 – Sample 5 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 1 – Sample 6 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 2 – Sample 6 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 1 – Sample 7 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 2 – Sample 7 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 1 – Sample 8 ,0x0AAA ,2 Bytes (12 Bits) ,-
+Force Data Pair 2 – Sample 8 ,0x0AAA ,2 Bytes (12 Bits) ,-
